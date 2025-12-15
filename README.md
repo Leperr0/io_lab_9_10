@@ -1,2 +1,2 @@
 # io_lab_9_10
-Test automatyzacjii
+Test automatyzacji
